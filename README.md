@@ -3,6 +3,7 @@
 deformしているmeshに対しcorrectiveShapeを作成するスクリプトです。
 
 考え方はChad Vernon氏のcvShapeInverterというplug-inを参考にさせて頂いてます。
+
 http://www.chadvernon.com/blog/resources/cvshapeinverter/
 
 中身は一部API2.0で書いているのである程度高速だと思います。
